@@ -1,6 +1,4 @@
 # hi, im drem. i enjoy coding, music, anime, and all that kind of stuff. <img src="https://cdn.discordapp.com/emojis/1003503501193777243.png" width="30px">
-
-## Links
 [![](https://img.shields.io/badge/-discord-5865F2?style=flat-square)](https://discord.com/users/1180921451675648072)
 [![](https://img.shields.io/badge/-x-000000?style=flat-square)](https://x.com/drem687)
 [![](https://img.shields.io/badge/-twitch-9456F1?style=flat-square)](https://www.twitch.tv/drem687)
