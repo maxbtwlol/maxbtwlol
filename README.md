@@ -6,7 +6,7 @@
 
 ---
 ## What I'm working on
-- aniverse: a free anime streaming service with absolutely no ads.
+- nothing, for now..
 ---
 ## Stats
 <p align="center">
