@@ -1,7 +1,5 @@
 # hi, im drem. i enjoy coding, music, anime, and all that kind of stuff. <img src="https://cdn.discordapp.com/emojis/1109900336912662538.png" width="30px">
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1180921451675648072)](https://discord.com/users/:1180921451675648072)
-
----
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1180921451675648072?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Listening%20to%20Apple%20Music)](https://discord.com/users/1180921451675648072)
 ## What I'm working on
 - nothing, for now..
 ---
