@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=F75D85FF&height=100&width=1000&lines=Hello!;drem;Feel+free+to+look+around.)](https://git.io/typing-svg)
 
 <!-- [![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)](#) -->
-[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#) 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
-
+[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/drem-jpg) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  
 
@@ -29,10 +28,10 @@
 
 <p align = "center">
 <a href="https://discord.com/users/1180921451675648072">
-  <img align="center" alt="LinkedIn" width="40px" margin="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="center" alt="Discord" width="40px" margin="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.youtube.com/@drem687">
-  <img align="center" alt="Medium" width="40px"  margin="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="center" alt="YouTube" width="40px"  margin="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
  </p>
 
