@@ -4,15 +4,6 @@
 [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/drem-jpg) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 
-
-
-### About me:
-
-- Aspiring developer
-- I enjoy anime and music
-- I ***despise*** Adobe
-
 ### **GitHub Stats:**
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=drem-jpg&show_icons=true&theme=dracula&count_private=true" />
