@@ -1,2 +1,10 @@
 # max.
-redid my README because the original was bloat.
+i'm max, as you can *probably* tell. i use void linux. very cool...
+
+## stuff i do
+- code (a little)
+- research
+- tennis
+
+## projects
+none yet :(
